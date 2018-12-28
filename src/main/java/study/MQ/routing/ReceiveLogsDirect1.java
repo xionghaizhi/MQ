@@ -15,7 +15,7 @@ import java.util.concurrent.TimeoutException;
  * @PackageName:student.MQ.Routing
  * @ClassName:ReceiveLogsDirect1 消费者代码1
  * @Description:TODO
- * @Author: sunhongchen
+ * @Author: xionghaizhi
  * @create 2018-12-28 16:03
  */
 public class ReceiveLogsDirect1

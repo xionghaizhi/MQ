@@ -21,7 +21,7 @@ import java.util.concurrent.TimeoutException;
  * @PackageName:student.MQ
  * @ClassName:Work1 消费者2
  * @Description:TODO
- * @Author: sunhongchen
+ * @Author: xionghaizhi
  * @create 2018-12-28 15:32
  */
 public class Work2

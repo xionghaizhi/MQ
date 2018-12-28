@@ -16,7 +16,7 @@ import java.util.concurrent.TimeoutException;
  * @PackageName:student.MQ.topics
  * @ClassName:ReceiveLogsTopic2 消费者2
  * @Description:TODO
- * @Author: sunhongchen
+ * @Author: xionghaizhi
  * @create 2018-12-28 16:08
  */
 public class ReceiveLogsTopic2

@@ -20,7 +20,7 @@ import java.util.concurrent.TimeoutException;
  * @PackageName:study.MQ.link
  * @ClassName:Producer 生产者
  * @Description:TODO
- * @Author: sunhongchen
+ * @Author: xionghaizhi
  * @create 2018-12-28 16:19
  */
 public class Producer

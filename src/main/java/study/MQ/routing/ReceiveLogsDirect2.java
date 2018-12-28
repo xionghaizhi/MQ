@@ -14,7 +14,7 @@ import java.io.UnsupportedEncodingException;
  * @PackageName:student.MQ.Routing
  * @ClassName:ReceiveLogsDirect2 消费者代码2
  * @Description:TODO
- * @Author: sunhongchen
+ * @Author: xionghaizhi
  * @create 2018-12-28 16:03
  */
 public class ReceiveLogsDirect2

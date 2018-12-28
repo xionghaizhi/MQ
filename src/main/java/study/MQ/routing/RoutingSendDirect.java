@@ -13,7 +13,7 @@ import java.io.IOException;
  * @PackageName:student.MQ.Routing
  * @ClassName:RoutingSendDirect 发送端代码
  * @Description:TODO
- * @Author: sunhongchen
+ * @Author: xionghaizhi
  * @create 2018-12-28 16:02
  */
 public class RoutingSendDirect

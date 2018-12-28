@@ -12,7 +12,7 @@ import com.rabbitmq.client.MessageProperties;
  * @PackageName:student.MQ
  * @ClassName:Producer 生产者
  * @Description:TODO
- * @Author: sunhongchen
+ * @Author: xionghaizhi
  * @create 2018-12-28 14:49
  */
 public class Producer

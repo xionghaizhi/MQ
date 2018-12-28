@@ -15,7 +15,7 @@ import java.io.IOException;
  * @PackageName:student.MQ.fanout
  * @ClassName:ReceiveLogs1 消费者代码
  * @Description:TODO
- * @Author: sunhongchen
+ * @Author: xionghaizhi
  * @create 2018-12-28 15:55
  */
 public class ReceiveLogs1

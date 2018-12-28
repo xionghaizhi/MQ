@@ -16,7 +16,7 @@ import java.util.concurrent.TimeoutException;
  * @PackageName:student.MQ.fanout
  * @ClassName:EmitLog 信息发送端代码
  * @Description:TODO
- * @Author: sunhongchen
+ * @Author: xionghaizhi
  * @create 2018-12-28 15:54
  */
 public class EmitLog

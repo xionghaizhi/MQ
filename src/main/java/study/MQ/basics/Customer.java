@@ -16,7 +16,7 @@ import java.io.IOException;
  * @PackageName:student.MQ
  * @ClassName:Customer 消费者
  * @Description:TODO
- * @Author: sunhongchen
+ * @Author: xionghaizhi
  * @create 2018-12-28 14:50
  */
 public class Customer
